@@ -7,3 +7,7 @@ minPrintf.cpp
 
 binarySearch.cpp 
 二分查找
+
+
+bitCount.cpp
+//统计整形参数二进制位为1的个数
