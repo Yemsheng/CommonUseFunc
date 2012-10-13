@@ -1,8 +1,4 @@
 
-//记载变长参数如何使用
-
-
-
 #include <stdarg.h>
 #include <stdio.h>
 
