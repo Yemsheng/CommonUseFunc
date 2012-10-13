@@ -10,4 +10,4 @@ binarySearch.cpp
 
 
 bitCount.cpp
-//统计整形参数二进制位为1的个数
+统计整形参数二进制位为1的个数
