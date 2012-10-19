@@ -1,4 +1,9 @@
 
+/*
+partition的操作，参考如下网址的版本一        
+http://blog.csdn.net/v_JULY_v/article/details/6116297
+*/
+
 void swap(int *array, int first, int second);
 int partition(int* array, int left, int right);
 
